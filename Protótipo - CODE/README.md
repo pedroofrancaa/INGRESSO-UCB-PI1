@@ -1,1 +1,1 @@
-#PROTOTIPO = CÓDIGO
+# Prototipo - Código HTML E CSS
