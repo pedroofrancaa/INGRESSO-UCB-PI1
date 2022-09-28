@@ -1,7 +1,7 @@
 # SISTEMA DE TICKET EM C
 #### GitHub para a entrega do trabalho final em Projeto Interdiciplinar I da Universidade Católica de Brasília.
 
-Professora Responsavel pelo materia: Joyce Siqueira | [GitHub](https://github.com/joycitta-siqueira)
+Professora Responsavel pela matéria: Joyce Siqueira | [GitHub](https://github.com/joycitta-siqueira)
 
 ### Alunos
 
