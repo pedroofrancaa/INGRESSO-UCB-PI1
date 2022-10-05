@@ -17,4 +17,4 @@ Professora Responsavel pela matéria: Joyce Siqueira | [GitHub](https://github.c
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``C`` |  - ``VSCode`` |  - ``GIT`` |  - ``Figma`` |  - ``HTML / CSS``
+``C`` | ``VSCode`` | ``GIT`` | ``Figma`` | ``HTML / CSS``
