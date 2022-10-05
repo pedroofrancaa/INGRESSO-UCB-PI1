@@ -5,6 +5,8 @@
 
 Professora Responsavel pela matéria: Joyce Siqueira | [GitHub](https://github.com/joycitta-siqueira)
 
+### Para duvidas de como instalar, executar o codigo e outras questões, visite nossa [WIKI](https://github.com/pedroofrancaa/INGRESSO-UCB-PI1/wiki)
+
 ## Alunos
 
 | Alunos | Curso | GitHub |
