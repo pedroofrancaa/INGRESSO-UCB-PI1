@@ -1,4 +1,4 @@
-# SISTEMA DE TICKET EM C
+# SISTEMA DE TICKET EM C / TICKET SYSTEM - C LANGUAGE
 ### DESCRIPTION IN ENGLISH VERSION: [CLICK HERE](https://github.com/pedroofrancaa/INGRESSO-UCB-PI1/edit/main/README.md#english-version)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
