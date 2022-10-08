@@ -31,7 +31,7 @@ Professora Responsavel pela matéria: Joyce Siqueira | [GitHub](https://github.c
 
 Teacher in charge of the subject: Joyce Siqueira | [GitHub](https://github.com/joycitta-siqueira)
 
-### For questions about how to install, run the code and other questions, visit our [WIKI](https://github.com/pedroofrancaa/INGRESSO-UCB-PI1/wiki) - IN ENGLISH
+### For questions about how to install, run the code and other questions, visit our [WIKI](https://github.com/pedroofrancaa/INGRESSO-UCB-PI1/wiki#english) - IN ENGLISH
 
 ## STUDENTS
 
