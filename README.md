@@ -19,7 +19,7 @@ Professora Responsavel pela matéria: Joyce Siqueira | [GitHub](https://github.c
 | Guilherme Limeira | Engenharia de Software | [guilhermelevi](https://github.com/guilhermelevi) |
 | Lucas Teles | Engenharia de Software | [Lucasteleslta](https://github.com/Lucasteleslta) |
 | Pedro França de Lima | Engenharia de Software | [pedroofrancaa](https://github.com/pedroofrancaa) |
-| Wallacy William | Ciencia da Computação | [Wallacy0157](https://github.com/Wallacy0157) |
+| Wallacy William | Ciência da Computação | [Wallacy0157](https://github.com/Wallacy0157) |
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
